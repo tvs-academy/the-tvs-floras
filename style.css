@@ -1,0 +1,28 @@
+h1
+{
+    color : rgb(19, 175, 16);
+    background-color: rgb(104, 58, 9);
+   font-size : 5em;
+}
+a{
+font-size: 2em;
+font-family:Georgia, 'Times New Roman', Times, serif ;
+color :rgb(67, 22, 145);
+border: 1em;
+border-radius: 50px;
+border-color: aqua;
+}
+
+
+
+p{
+    color:dodgerblue;
+    background-color: rgb(166, 4, 4);
+    font-size: 2em;
+}
+
+p1{
+    color:gold;
+    background-color: rgb(8, 162, 214);
+    font-size: 2em;
+}
